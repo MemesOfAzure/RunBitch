@@ -43,7 +43,7 @@ p {
 }
 
 .highlight {
-    color: red;
+    color: #68c8ff;
     font-weight: bold;
 }
 
@@ -96,7 +96,7 @@ section {
 hr {
     width: 250px;
     height: 3px;
-    background-color: red;
+    background-color: #68c8ff;
     border: 0;
     margin-bottom: 50px;
 }
@@ -203,7 +203,7 @@ header nav ul li {
 /* Showcase */
 
 section#showcase {
-    background-color: #f3b57d;
+    background-color: #497a96;
     position: relative;
     justify-content: center;
     text-align: center;
@@ -227,20 +227,20 @@ section#showcase {
 }
 
 #showcase-image img {
-    width: 45%;
+    width: 60%;
     margin: 0 auto;
 }
 
 #showcase a.btn {
-    border: 2px solid #fff;
+    border: 3px solid #fff;
     border-radius: 20px;
     padding: 10px 20px;
     margin: 35px 0 0 0;
 }
 
 #showcase a.btn:hover {
-    border: 2px solid red;
-    color: red;
+    border: 3px solid #68c8ff;
+    color: #68c8ff;
 }
 
 /* Benefits */
@@ -280,7 +280,7 @@ section#benefits {
 }
 
 #benefits-list .fa {
-    color: red;
+    color: #72b6dd;
 }
 
 @media (max-width: 1100px) {
@@ -331,7 +331,7 @@ li.ingredient-box * {
 
 p.ingredient-name {
     font-size: 30px;
-    color: red;
+    color: #72b6dd;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -493,7 +493,7 @@ blockquote span {
 }
 
 .price-box .header.header-red {
-    background-color: red;
+    background-color: #72b6dd;
 }
 
 .price-box li {
@@ -518,7 +518,7 @@ blockquote span {
 }
 
 .price-box .button:hover {
-    background-color: red;
+    background-color: #72b6dd;
 }
 
 @media all and (max-width: 768px) {
