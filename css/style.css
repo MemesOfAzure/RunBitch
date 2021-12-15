@@ -254,8 +254,8 @@ section#benefits {
 }
 
 #benefits .grid #benefits-pizza-image {
-    flex-basis: 50%;
-    text-align: center;
+    flex-basis: 40%;
+    text-align: right;
 }
 
 #benefits-pizza-image img {
@@ -275,7 +275,7 @@ section#benefits {
 }
 
 #benefits-list p {
-    font-size: 20px;
+    font-size: 24px;
     line-height: 1.8;
 }
 

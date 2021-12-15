@@ -11,8 +11,8 @@ sr.reveal(".section-title", {
 });
 
 sr.reveal(".section-subtitle", {
-    duration: 1000,
-    delay: 1000,
+    duration: 500,
+    delay: 500,
     origin: 'top',
     distance: '50px',
     easing: 'ease-in-out',
@@ -21,8 +21,8 @@ sr.reveal(".section-subtitle", {
 });
 
 sr.reveal(".left", {
-    duration: 2000,
-    delay: 2000,
+    duration: 500,
+    delay: 500,
     origin: 'left',
     distance: '300px',
     easing: 'ease-in-out',
@@ -31,8 +31,8 @@ sr.reveal(".left", {
 });
 
 sr.reveal(".right", {
-    duration: 2000,
-    delay: 2000,
+    duration: 500,
+    delay: 500,
     origin: 'right',
     distance: '300px',
     easing: 'ease-in-out',
@@ -41,8 +41,8 @@ sr.reveal(".right", {
 });
 
 sr.reveal(".order", {
-    duration: 2000,
-    delay: 2000,
+    duration: 500,
+    delay: 500,
     scale: 0.2,
     easing: 'ease-in-out',
     mobile: false,
@@ -51,7 +51,7 @@ sr.reveal(".order", {
 
 sr.reveal(".ingredient-box", {
     duration: 500,
-    delay: 2000,
+    delay: 500,
     scale: 0.1,
     easing: 'ease-in-out',
     mobile: false,
