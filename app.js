@@ -50,8 +50,8 @@ sr.reveal(".order", {
 }, 300);
 
 sr.reveal(".ingredient-box", {
-    duration: 500,
-    delay: 500,
+    duration: 300,
+    delay: 200,
     scale: 0.1,
     easing: 'ease-in-out',
     mobile: false,

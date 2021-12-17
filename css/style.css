@@ -255,7 +255,7 @@ section#benefits {
 
 #benefits .grid #benefits-pizza-image {
     flex-basis: 40%;
-    text-align: right;
+    text-align: center;
 }
 
 #benefits-pizza-image img {
@@ -405,7 +405,7 @@ p.ingredient-name {
 
 .testimonial-box {
     flex-basis: 50%;
-    margin-top: 50px;
+    margin-top: 30px;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -413,7 +413,7 @@ p.ingredient-name {
 
 @media (max-width: 575px) {
     .testimonial-box {
-        margin-top: 10px;
+        margin-top: 5px;
     }
 }
 
@@ -425,13 +425,13 @@ blockquote {
     font-family: 'Open Sans';
     font-style: italic;
     color: #000;
-    border-left: 8px solid #865d3d;
+    border-left: 8px solid #40a0d8;
     line-height: 1.6;
-    background: #f3b57d;
+    background: #6cbbe9;
 }
 
 blockquote i {
-    color: #865d3d;
+    color: #40a0d8;
 }
 
 blockquote span {
